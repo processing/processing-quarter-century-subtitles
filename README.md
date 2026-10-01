@@ -14,7 +14,7 @@ Even a correction to a single subtitle is welcome. You don't need to be a progra
 
 All subtitle files are in the [`subtitles/`](subtitles/) folder in SubRip (`.srt`) format.
 
-The English file is the reference transcript, edited by the presenters. The translations were drafted with AI assistance and **have not yet been reviewed by native speakers**. Every language needs a reviewer, so pick any one you speak.
+The English file is the reference transcript, edited by the presenters. The translations were drafted with AI assistance (see the [AI disclosure](#ai-disclosure)) and **have not yet been reviewed by native speakers**. Every language needs a reviewer, so pick any one you speak.
 
 | Language | File | Status |
 | --- | --- | --- |
@@ -146,6 +146,10 @@ New translations are welcome too. Copy the English subtitle file as a starting p
 - **Pull request:** Include the language and any regional variant in the description.
 
 Before you start, [open an issue](https://github.com/processing/processing-quarter-century-subtitles/issues) saying which language you're working on, so two people don't translate the same one.
+
+## AI disclosure
+
+The initial translations, as well as this README, were produced with LLM assistance (GPT 6.1 and Opus 5.5), under the supervision of Raphaël de Courville ([@sableraf](https://github.com/sableraf)), who takes responsibility for its content. If you find an error in it, [open an issue](https://github.com/processing/processing-quarter-century-subtitles/issues).
 
 ## Video credits
 
