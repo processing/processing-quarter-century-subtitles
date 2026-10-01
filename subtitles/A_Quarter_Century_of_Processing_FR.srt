@@ -13,7 +13,7 @@ le métier à tisser.
 
 4
 00:00:20,720 --> 00:00:23,919
-Avant les pixels, il y avait les fils.
+Avant le pixel, il y avait le point.
 
 5
 00:00:27,119 --> 00:00:33,120
@@ -242,8 +242,8 @@ ont appris Processing.
 
 51
 00:03:55,440 --> 00:04:02,160
-On commençait par des lignes et des cercles,
-puis on créait des œuvres pour des musées,
+Ils ont commencé par des lignes et des cercles,
+puis ont créé des œuvres pour des musées,
 
 52
 00:04:02,640 --> 00:04:08,079
@@ -306,7 +306,7 @@ et pourtant la communauté m'a accueilli
 64
 00:05:02,880 --> 00:05:07,409
 sans jamais me faire sentir de trop,
-même avec des questions très basiques.
+même avec mes questions très basiques.
 
 65
 00:05:07,919 --> 00:05:13,610
@@ -467,7 +467,7 @@ les femmes, les personnes LGBTQ+,
 
 98
 00:07:22,400 --> 00:07:26,959
-les personnes racisées et handicapées,
+les personnes racisées, handicapées,
 historiquement exclues
 
 99
@@ -618,12 +618,12 @@ et aimé par des millions de gens.
 129
 00:09:41,600 --> 00:09:46,010
 Mais avec les années,
-comme une maison de famille bien aimée,
+comme toute vieille maison de famille,
 
 130
 00:09:46,320 --> 00:09:48,800
 certaines parties
-ont commencé à vieillir.
+ont commencé à montrer leur âge.
 
 131
 00:09:48,880 --> 00:09:53,920
@@ -647,11 +647,11 @@ et à inviter les nouveaux venus
 135
 00:10:08,000 --> 00:10:13,040
 Une grande partie de ce travail
-a été menée par Stef,
+a été menée par Stef Tervelde,
 
 136
 00:10:13,120 --> 00:10:15,360
-qui pilote cette modernisation
+qui a piloté cette modernisation
 en coulisses.
 
 137
@@ -919,11 +919,11 @@ et j'ai aujourd'hui l'immense plaisir
 192
 00:14:12,560 --> 00:14:16,559
 de vous annoncer le Fonds de maintenance
-de la Processing Foundation.
+de la Fondation Processing.
 
 193
 00:14:16,639 --> 00:14:19,999
-La Processing Foundation
+La Fondation Processing
 versera 200 000 dollars
 
 194
@@ -951,7 +951,7 @@ le Fonds de développement
 
 199
 00:14:44,800 --> 00:14:45,929
-de la Processing Foundation.
+de la Fondation Processing.
 
 200
 00:14:47,199 --> 00:14:52,559
@@ -998,12 +998,12 @@ pour l'étudier, le modifier et l'utiliser.
 209
 00:15:23,760 --> 00:15:28,250
 Mais comme le dit souvent Casey Reas,
-le logiciel libre coûte cher à produire.
+un logiciel gratuit coûte cher à produire.
 
 210
 00:15:28,399 --> 00:15:32,879
 Processing dépend de gens qui choisissent
-de donner leur temps, leurs efforts
+de donner leur temps, leur énergie
 
 211
 00:15:32,959 --> 00:15:37,920

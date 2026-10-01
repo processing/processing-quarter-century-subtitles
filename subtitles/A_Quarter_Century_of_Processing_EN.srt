@@ -642,7 +642,7 @@ to make their first contribution.
 135
 00:10:08,000 --> 00:10:13,040
 A lot of this work has been performed
-by Stef who has been leading this
+by Stef Tervelde who has been leading this
 
 136
 00:10:13,120 --> 00:10:15,360

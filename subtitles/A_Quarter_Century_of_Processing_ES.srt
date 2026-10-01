@@ -12,7 +12,7 @@ Antes de la pantalla, estaba el telar.
 
 4
 00:00:20,720 --> 00:00:23,919
-Antes de los píxeles, estaban los hilos.
+Antes del píxel, estaba el punto.
 
 5
 00:00:27,119 --> 00:00:33,120
@@ -466,7 +466,7 @@ a mujeres, a la comunidad LGBTQ+,
 
 98
 00:07:22,400 --> 00:07:26,959
-a personas racializadas y con discapacidad,
+a personas racializadas o con discapacidad,
 históricamente excluidas
 
 99
@@ -646,11 +646,11 @@ a hacer su primera contribución.
 135
 00:10:08,000 --> 00:10:13,040
 Gran parte de este trabajo
-lo ha hecho Stef,
+lo ha hecho Stef Tervelde,
 
 136
 00:10:13,120 --> 00:10:15,360
-que lidera esta modernización
+que ha liderado esta modernización
 entre bastidores.
 
 137

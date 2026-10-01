@@ -12,7 +12,7 @@ Antes da tela, existia o tear.
 
 4
 00:00:20,720 --> 00:00:23,919
-Antes dos pixels, existiam os fios.
+Antes do pixel, existia o ponto.
 
 5
 00:00:27,119 --> 00:00:33,120
@@ -646,11 +646,11 @@ a fazer sua primeira contribuição.
 135
 00:10:08,000 --> 00:10:13,040
 Grande parte desse trabalho
-foi feita pelo Stef,
+foi feita pelo Stef Tervelde,
 
 136
 00:10:13,120 --> 00:10:15,360
-que lidera essa modernização
+que liderou essa modernização
 nos bastidores.
 
 137

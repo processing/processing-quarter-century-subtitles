@@ -20,16 +20,16 @@ The English file is the reference transcript, edited by the presenters. The tran
 | --- | --- | --- |
 | English | [EN](subtitles/A_Quarter_Century_of_Processing_EN.srt) | Reference transcript |
 | Chinese (Simplified) | [ZH](subtitles/A_Quarter_Century_of_Processing_ZH.srt) | Needs review |
-| Chinese (Traditional, Taiwan) | [ZH-TW](subtitles/A_Quarter_Century_of_Processing_ZH-TW.srt) | Needs review |
-| French | [FR](subtitles/A_Quarter_Century_of_Processing_FR.srt) | Needs review |
-| German | [DE](subtitles/A_Quarter_Century_of_Processing_DE.srt) | Needs review |
-| Hindi | [HI](subtitles/A_Quarter_Century_of_Processing_HI.srt) | Needs review |
-| Japanese | [JA](subtitles/A_Quarter_Century_of_Processing_JA.srt) | Needs review |
-| Korean | [KO](subtitles/A_Quarter_Century_of_Processing_KO.srt) | Needs review |
-| Persian | [FA](subtitles/A_Quarter_Century_of_Processing_FA.srt) | Needs review |
-| Portuguese (Brazil) | [PT-BR](subtitles/A_Quarter_Century_of_Processing_PT-BR.srt) | Needs review |
-| Spanish (Spain) | [ES](subtitles/A_Quarter_Century_of_Processing_ES.srt) | Needs review |
-| Turkish | [TR](subtitles/A_Quarter_Century_of_Processing_TR.srt) | Needs review |
+| Chinese (Traditional, Taiwan) | [ZH-TW](subtitles/A_Quarter_Century_of_Processing_ZH-TW.srt) | ☑️ Needs review |
+| French | [FR](subtitles/A_Quarter_Century_of_Processing_FR.srt) | ✅ Reviewed |
+| German | [DE](subtitles/A_Quarter_Century_of_Processing_DE.srt) | ☑️ Needs review |
+| Hindi | [HI](subtitles/A_Quarter_Century_of_Processing_HI.srt) | ☑️ Needs review |
+| Japanese | [JA](subtitles/A_Quarter_Century_of_Processing_JA.srt) | ☑️ Needs review |
+| Korean | [KO](subtitles/A_Quarter_Century_of_Processing_KO.srt) | ☑️ Needs review |
+| Persian | [FA](subtitles/A_Quarter_Century_of_Processing_FA.srt) | ☑️ Needs review |
+| Portuguese (Brazil) | [PT-BR](subtitles/A_Quarter_Century_of_Processing_PT-BR.srt) | ☑️ Needs review |
+| Spanish (Spain) | [ES](subtitles/A_Quarter_Century_of_Processing_ES.srt) | ☑️ Needs review |
+| Turkish | [TR](subtitles/A_Quarter_Century_of_Processing_TR.srt) | ☑️ Needs review |
 
 When you've reviewed a whole file, change its status to **Reviewed** in your pull request. If you reviewed only part of it, write which subtitle numbers you covered, for example "Reviewed 1–103".
 
@@ -88,8 +88,8 @@ These terms come back throughout the talk. Keeping them consistent within a file
 | low floors, wide walls, high ceilings | A known phrase from creative-computing education: easy to start, many directions to explore, no limit on ambition. Translate the image, not word for word. |
 | sketch | What Processing users call a program. Many languages keep it in English. |
 | contributor, steward, maintainer | Roles in the p5.js community, from newest to most responsible. Use the terms your language's open-source community uses. Leaving "steward" in English is fine if there's no good equivalent. |
-| Maintenance Fund, Development Fund | The Processing Foundation's two new funds. You can translate these names or keep them in English, but be consistent. |
-| free software | Free as in freedom, not only free of charge. Use your language's established term (for example *logiciel libre*, *software libre*). |
+| Maintenance Fund, Development Fund, Processing Foundation | The Processing Foundation's two new funds, and the foundation itself. You can translate these names (the French, Japanese, Korean, Chinese, and Persian files translate "Foundation") or keep them in English, but be consistent. |
+| free software | Free as in freedom, not only free of charge. Use your language's established term (for example *logiciel libre*, *software libre*). Subtitle 209 is an exception; see [Open questions](#open-questions). |
 | Processing, p5.js, Processing Community Day, Deep Space | Names. Don't translate them. |
 
 ## Editing guidelines
@@ -133,6 +133,11 @@ These lines were hard to translate or check without a native speaker. They're a 
 
 - **All languages, subtitles 162 and 175:** The speaker interjects ("Yes, that's right", "Yeah"). If you hear a different person speaking in the video, say so in an issue.
 - **Hindi, subtitle 98:** "People of color" is translated as *अश्वेत और अल्पसंख्यक लोग*. Hindi has no settled equivalent, so suggestions are welcome.
+- **All languages, subtitle 129:** "A well-loved family home" is a polite way of saying worn or showing its age, with affection. A literal "well-loved" can lose the wear and just repeat "loved by millions" from the previous subtitle. In French, *bien aimée* was a poor fit, and the file now uses *vieille maison de famille*. Subtitle 130 ("started to show their age") continues the image.
+- **All languages, subtitles 173–174:** The "dog years" joke ("the same questionable mathematics we use for dogs"). Processing is 25 years old, which the speaker converts to 250 "software years" by multiplying by ten, a looser version of the idea that a dog ages seven years for each human year. Not every language has this idea. If yours doesn't, keep the joke understandable, or replace it with a comparable expression of your own, as long as the 25 to 250 arithmetic still works.
+- **All languages, subtitle 209:** "Free software is expensive to make" plays on *free* meaning both "libre" and "gratis". Most files use the established term for free software, which loses the contrast with "expensive". The French file uses *gratuit* here, since the previous subtitle already says *distribué gratuitement*. The Hindi and Japanese files already lean toward "free of charge". Check whether your language needs the same adjustment.
+- **All languages, subtitle 4:** The French, Spanish, and Portuguese files say "before the pixel, there was the stitch" (*le point*, *el punto*, *o ponto*) instead of "threads", because the word also means a dot, which echoes the pixel. This is a deliberate adaptation. In your language, use it only if one word covers both stitch and dot or pixel-sized unit. Otherwise keep "threads".
+- **Japanese, Korean, Persian, subtitle 135:** "Tervelde", the Dutch surname of Stef Tervelde, is transliterated by ear. Please check the spelling and the pronunciation (roughly *ter-VEL-duh*).
 - **Chinese (Simplified), subtitles 113–116:** "Steward" is translated as 管理员, which is a loose fit.
 
 Before submitting, reread your changes alongside the video and check that you haven't accidentally changed the timing or removed an entry. Keep each pull request focused on one language when possible.
