@@ -1,0 +1,1053 @@
+1
+00:00:05,894 --> 00:00:14,320
+[musique]
+
+2
+00:00:14,400 --> 00:00:15,400
+XIN : Alors…
+
+3
+00:00:16,560 --> 00:00:20,170
+Avant l'écran, il y avait
+le métier à tisser.
+
+4
+00:00:20,720 --> 00:00:23,919
+Avant les pixels, il y avait les fils.
+
+5
+00:00:27,119 --> 00:00:33,120
+Un métier à tisser sert à maintenir
+des fils tendus pour pouvoir
+
+6
+00:00:33,200 --> 00:00:37,440
+en ajouter d'autres. Le logiciel libre
+est comme un métier à tisser.
+
+7
+00:00:37,520 --> 00:00:43,600
+De nouvelles personnes arrivent, ajoutent
+des fils et agrandissent la tapisserie
+
+8
+00:00:43,680 --> 00:00:48,020
+pour la rendre plus vibrante,
+plus vivante et plus belle.
+
+9
+00:00:48,800 --> 00:00:51,590
+Ce soir, nous sommes là
+pour célébrer Processing.
+
+10
+00:00:53,249 --> 00:00:53,760
+[applaudissements]
+
+11
+00:00:53,840 --> 00:00:57,739
+C'est notre métier à tisser,
+et il tisse depuis 25 ans.
+
+12
+00:00:58,160 --> 00:01:02,748
+Nous avons hâte de vous présenter
+les nouveaux fils que nous y ajoutons.
+
+13
+00:01:03,680 --> 00:01:07,160
+CASSIE : L'histoire de Processing
+commence il y a plus de 25 ans.
+
+14
+00:01:07,760 --> 00:01:12,320
+En 1996, l'informatique restait
+inaccessible aux personnes
+
+15
+00:01:12,400 --> 00:01:15,988
+sans formation technique, et l'infographie
+était particulièrement complexe.
+
+16
+00:01:16,159 --> 00:01:19,420
+Très peu d'artistes
+écrivaient du code.
+
+17
+00:01:20,320 --> 00:01:25,260
+Au laboratoire Aesthetics and Computation
+du MIT Media Lab, on se demande :
+
+18
+00:01:25,520 --> 00:01:28,339
+« Que signifie faire de l'art
+avec un ordinateur ?
+
+19
+00:01:28,560 --> 00:01:33,520
+Peut-on concevoir un outil qui permette
+aux artistes et aux designers
+
+20
+00:01:33,600 --> 00:01:37,440
+de faire du code un médium créatif ? »
+Le directeur du labo, John Maeda,
+
+21
+00:01:37,520 --> 00:01:40,800
+y répond en créant
+Design by Numbers,
+
+22
+00:01:40,880 --> 00:01:44,939
+un logiciel pionnier
+du concept de toile numérique.
+
+23
+00:01:45,360 --> 00:01:49,029
+Pour lui, la créativité
+naît de la simplicité.
+
+24
+00:01:49,280 --> 00:01:54,079
+Il limite la toile à 100 × 100 pixels
+et restreint les couleurs
+
+25
+00:01:54,159 --> 00:01:55,159
+aux niveaux de gris.
+
+26
+00:01:56,000 --> 00:02:02,399
+En 2001, il y a 25 ans,
+deux de ses étudiants, Casey Reas et Ben Fry,
+
+27
+00:02:02,479 --> 00:02:07,520
+enseignent Design by Numbers
+à des artistes et des designers
+
+28
+00:02:07,600 --> 00:02:09,894
+et leur apprennent avec succès
+les bases de l'infographie.
+
+29
+00:02:10,160 --> 00:02:14,159
+Convaincus qu'il y a plus à exprimer,
+ils créent leur propre version :
+
+30
+00:02:14,239 --> 00:02:15,239
+Processing.
+
+31
+00:02:15,840 --> 00:02:20,640
+Ils ajoutent la couleur, la 3D,
+et agrandissent la toile,
+
+32
+00:02:20,720 --> 00:02:24,449
+tout en gardant des commandes
+simples et peu nombreuses.
+
+33
+00:02:25,280 --> 00:02:29,300
+Leur mission : créer
+un logiciel pour esquisser.
+
+34
+00:02:29,920 --> 00:02:34,720
+Traditionnellement, on planifie
+tout un programme
+
+35
+00:02:34,800 --> 00:02:37,094
+avant d'en écrire
+la moindre ligne.
+
+36
+00:02:37,280 --> 00:02:39,600
+Ça marche bien pour l'ingénierie,
+
+37
+00:02:39,680 --> 00:02:43,920
+mais pas pour l'exploration,
+l'invention ou le jeu.
+
+38
+00:02:44,000 --> 00:02:48,320
+Avec Processing, le code devient
+un pinceau numérique qui parcourt
+
+39
+00:02:48,400 --> 00:02:52,400
+la toile, découvre et suit
+des chemins inattendus.
+
+40
+00:02:52,480 --> 00:02:55,920
+Le processus compte
+autant que le résultat.
+
+41
+00:03:00,080 --> 00:03:06,059
+MOON : Dès le départ, Processing a fait
+du code un outil d'improvisation.
+
+42
+00:03:06,560 --> 00:03:11,080
+Je l'ai découvert il y a 20 ans,
+dans un cours d'infographie.
+
+43
+00:03:12,560 --> 00:03:17,680
+Je me souviens d'un sentiment de liberté :
+je pouvais enfin créer
+
+44
+00:03:17,760 --> 00:03:21,800
+sans me soucier des détails techniques
+de bas niveau.
+
+45
+00:03:22,480 --> 00:03:29,480
+Ce que Casey et Ben ont tendu sur le métier,
+c'est une abstraction élégante.
+
+46
+00:03:31,200 --> 00:03:35,370
+Dans le logiciel,
+il y a setup et il y a draw.
+
+47
+00:03:36,000 --> 00:03:42,540
+Setup, c'est la chaîne. On la pose
+une fois sur le métier, et elle tient.
+
+48
+00:03:43,040 --> 00:03:49,519
+Draw, c'est la trame. Le fil qui passe
+d'un bord à l'autre, encore et encore,
+
+49
+00:03:49,599 --> 00:03:52,159
+et encore. L'expérience a réussi.
+
+50
+00:03:52,239 --> 00:03:55,030
+Énormément de gens
+ont appris Processing.
+
+51
+00:03:55,440 --> 00:04:02,160
+On commençait par des lignes et des cercles,
+puis on créait des œuvres pour des musées,
+
+52
+00:04:02,640 --> 00:04:08,079
+des installations dans l'espace public,
+des visualisations pour la recherche.
+
+53
+00:04:08,159 --> 00:04:11,680
+Processing repose
+sur des concepts simples,
+
+54
+00:04:11,760 --> 00:04:17,270
+mais les artistes ont toujours su
+en tirer des projets ambitieux.
+
+55
+00:04:17,519 --> 00:04:21,489
+C'est ce qu'on appelle : seuil bas,
+murs larges et plafond haut.
+
+56
+00:04:21,840 --> 00:04:24,880
+Processing a donc accompli
+sa mission fondatrice.
+
+57
+00:04:27,040 --> 00:04:30,490
+RAPHAËL : J'ai découvert Processing en 2012.
+
+58
+00:04:31,440 --> 00:04:36,800
+Je sortais d'une formation en arts appliqués
+très traditionnelle, et franchement
+
+59
+00:04:36,880 --> 00:04:42,880
+très française. Processing m'a montré
+une tout autre façon
+
+60
+00:04:42,960 --> 00:04:49,679
+de penser le design. Soudain, je pouvais
+créer mes propres logiciels de création.
+
+61
+00:04:49,759 --> 00:04:54,240
+Mieux encore, le langage était
+assez simple pour que je puisse lire,
+
+62
+00:04:54,320 --> 00:04:57,050
+écrire et comprendre le code.
+
+63
+00:04:57,759 --> 00:05:02,800
+J'étais complètement débutant,
+et pourtant la communauté m'a accueilli
+
+64
+00:05:02,880 --> 00:05:07,409
+sans jamais me faire sentir de trop,
+même avec des questions très basiques.
+
+65
+00:05:07,919 --> 00:05:13,610
+À la sortie de la version 2,
+les notes de version disaient, pour rire :
+
+66
+00:05:13,919 --> 00:05:20,200
+« Processing cherche à ruiner la carrière
+de designers talentueux en les détournant
+
+67
+00:05:20,320 --> 00:05:25,839
+de leurs outils habituels pour les attirer
+vers l'informatique et la programmation. »
+
+68
+00:05:25,919 --> 00:05:30,399
+Eh bien, j'aime à penser que Processing
+a surtout rendu ma vie et ma carrière
+
+69
+00:05:30,479 --> 00:05:31,730
+bien plus passionnantes.
+
+70
+00:05:33,120 --> 00:05:38,559
+CASSIE : En 2002, Dan Shiffman découvre Processing
+comme étudiant à l'Interactive
+
+71
+00:05:38,639 --> 00:05:41,000
+Telecommunications Program
+de NYU, l'ITP.
+
+72
+00:05:41,600 --> 00:05:45,600
+Diplômé, il crée des centaines d'exemples,
+puis devient professeur
+
+73
+00:05:45,680 --> 00:05:47,880
+et enseigne Processing à l'ITP.
+
+74
+00:05:48,400 --> 00:05:51,920
+Depuis, il fait grandir la communauté
+grâce à ses ressources pédagogiques,
+
+75
+00:05:52,000 --> 00:05:56,480
+ses livres, dont The Nature of Code,
+et ses tutoriels en ligne
+
+76
+00:05:56,560 --> 00:05:59,899
+sur sa joyeuse chaîne YouTube,
+The Coding Train.
+
+77
+00:06:00,320 --> 00:06:02,559
+Avant de découvrir Processing,
+
+78
+00:06:02,639 --> 00:06:05,227
+j'ai appris à coder
+en école d'ingénieurs.
+
+79
+00:06:05,440 --> 00:06:10,080
+Je faisais des interfaces en ligne de commande
+et j'apprenais les structures de données.
+
+80
+00:06:10,160 --> 00:06:15,440
+Après le diplôme, j'avais l'impression
+de ne rien pouvoir créer de marquant
+
+81
+00:06:15,520 --> 00:06:20,399
+ou de concret. Ado, je me sentais plus capable
+en faisant des pages sur MySpace
+
+82
+00:06:20,479 --> 00:06:21,520
+et Neopets.
+
+83
+00:06:22,400 --> 00:06:28,000
+Peu après mon diplôme, j'ai assisté
+à une présentation de fin de semestre
+
+84
+00:06:28,080 --> 00:06:33,679
+à l'ITP. J'y ai vu des projets expressifs,
+impressionnants, parfois réalisés
+
+85
+00:06:33,759 --> 00:06:36,149
+après un seul semestre de code.
+
+86
+00:06:36,720 --> 00:06:40,320
+Rien à voir avec mes études d'ingénieur.
+Je voulais en savoir plus
+
+87
+00:06:40,400 --> 00:06:42,239
+sur le code créatif.
+
+88
+00:06:42,319 --> 00:06:45,280
+En 2013, Lauren Lee McCarthy se demande :
+
+89
+00:06:45,360 --> 00:06:49,280
+« À quoi ressemblerait Processing
+s'il avait été créé 12 ans plus tard ? »
+
+90
+00:06:49,360 --> 00:06:54,399
+La réponse : p5. Processing avait amené
+les artistes à écrire du code ;
+
+91
+00:06:54,479 --> 00:06:58,140
+p5 voulait non seulement élargir
+sa communauté,
+
+92
+00:06:58,240 --> 00:07:01,122
+mais aussi lui donner les moyens
+de façonner le logiciel.
+
+93
+00:07:01,360 --> 00:07:04,948
+C'est cette mission
+qui m'a donné envie de m'impliquer.
+
+94
+00:07:05,120 --> 00:07:08,559
+En 2016, à l'invitation
+de Lauren et de Dan,
+
+95
+00:07:08,639 --> 00:07:14,000
+j'ai créé l'éditeur en ligne, pour rendre
+p5 encore plus accessible
+
+96
+00:07:14,080 --> 00:07:16,800
+sur Internet. Avec Lauren,
+
+97
+00:07:16,880 --> 00:07:22,320
+nous avons ouvert une porte qui accueille
+les femmes, les personnes LGBTQ+,
+
+98
+00:07:22,400 --> 00:07:26,959
+les personnes racisées et handicapées,
+historiquement exclues
+
+99
+00:07:27,039 --> 00:07:29,319
+de l'informatique et de l'ingénierie.
+
+100
+00:07:29,599 --> 00:07:33,910
+p5 a transformé le code créatif,
+et des millions de gens sont arrivés.
+
+101
+00:07:34,160 --> 00:07:38,880
+En 2022, j'ai passé le flambeau
+à Rachel Lim pour l'éditeur p5,
+
+102
+00:07:38,960 --> 00:07:42,399
+pour que le projet offre à quelqu'un d'autre
+tout ce qu'il avait apporté
+
+103
+00:07:42,479 --> 00:07:43,630
+à ma carrière.
+
+104
+00:07:45,840 --> 00:07:50,720
+Q : Quand je pense à p5.js, je pense
+aux gens qui l'ont construit et
+
+105
+00:07:50,800 --> 00:07:56,060
+qui continuent de le faire. Lauren a créé
+et dirigé p5 pendant sept ans.
+
+106
+00:07:56,160 --> 00:08:01,119
+En 2020, elle a choisi de laisser
+d'autres personnes porter le projet.
+
+107
+00:08:01,840 --> 00:08:07,040
+Grâce à la direction tournante de p5,
+Moira Turner, cypress masso
+
+108
+00:08:07,120 --> 00:08:10,619
+et moi-même avons pris la tête
+du projet au fil des années.
+
+109
+00:08:11,360 --> 00:08:17,280
+Aujourd'hui, Kit Kuksenok le porte,
+et un jour, le flambeau passera
+
+110
+00:08:17,360 --> 00:08:23,300
+à la personne suivante. On vient pour p5,
+mais on reste pour la communauté.
+
+111
+00:08:23,680 --> 00:08:28,160
+Je suis fière d'un projet open source
+où l'on peut grandir.
+
+112
+00:08:28,240 --> 00:08:32,099
+Personne ne devient mainteneur
+du jour au lendemain.
+
+113
+00:08:32,640 --> 00:08:37,349
+Nous avons donc tracé un parcours :
+contributeur, steward, mainteneur.
+
+114
+00:08:37,599 --> 00:08:42,399
+Nous avons lancé des appels à stewards
+par domaine, car personne ne peut
+
+115
+00:08:42,479 --> 00:08:47,920
+être expert en accessibilité, typographie
+et shaders à la fois.
+
+116
+00:08:48,000 --> 00:08:51,829
+Chaque steward prend en charge
+une partie de p5,
+
+117
+00:08:52,000 --> 00:08:56,080
+y gagne en confiance et en expertise,
+et peut ensuite évoluer
+
+118
+00:08:56,160 --> 00:09:00,400
+vers un rôle de mainteneur. Nous les
+accompagnons par le mentorat et
+
+119
+00:09:00,480 --> 00:09:05,360
+la rémunération. Car il faut le reconnaître :
+tout le monde n'a pas
+
+120
+00:09:05,440 --> 00:09:08,499
+le privilège de donner
+son temps à l'open source.
+
+121
+00:09:09,600 --> 00:09:13,670
+Le logiciel semble souvent anonyme
+et cache les gens qui le font.
+
+122
+00:09:14,160 --> 00:09:18,639
+Mais derrière chaque projet open source,
+il y a des personnes, des histoires,
+
+123
+00:09:18,720 --> 00:09:21,020
+des émotions et des liens.
+
+124
+00:09:21,120 --> 00:09:23,296
+Nous devons rendre ces personnes visibles,
+
+125
+00:09:23,839 --> 00:09:27,290
+investir en elles et leur offrir
+des occasions de grandir.
+
+126
+00:09:27,680 --> 00:09:32,179
+Au fond, l'open source est fait
+par la communauté, pour la communauté.
+
+127
+00:09:34,000 --> 00:09:39,759
+RAPHAËL : Processing Java existe depuis
+très longtemps, et il est encore utilisé
+
+128
+00:09:39,839 --> 00:09:41,520
+et aimé par des millions de gens.
+
+129
+00:09:41,600 --> 00:09:46,010
+Mais avec les années,
+comme une maison de famille bien aimée,
+
+130
+00:09:46,320 --> 00:09:48,800
+certaines parties
+ont commencé à vieillir.
+
+131
+00:09:48,880 --> 00:09:53,920
+Ces derniers temps, notre travail
+a surtout consisté à consolider
+
+132
+00:09:54,000 --> 00:09:57,520
+ses fondations,
+à remettre le code en état,
+
+133
+00:09:57,600 --> 00:10:02,689
+à moderniser l'expérience des développeurs
+et à inviter les nouveaux venus
+
+134
+00:10:02,880 --> 00:10:05,370
+à faire leur première contribution.
+
+135
+00:10:08,000 --> 00:10:13,040
+Une grande partie de ce travail
+a été menée par Stef,
+
+136
+00:10:13,120 --> 00:10:15,360
+qui pilote cette modernisation
+en coulisses.
+
+137
+00:10:15,440 --> 00:10:20,240
+Puis, en septembre dernier, Moon Davé
+nous a rejoints à plein temps,
+
+138
+00:10:20,320 --> 00:10:27,040
+avec des idées neuves pour Processing,
+en relevant le plafond
+
+139
+00:10:27,120 --> 00:10:31,280
+de ce qu'on peut créer avec Processing
+et de ce que le projet peut devenir.
+
+140
+00:10:31,360 --> 00:10:37,600
+MOON : Merci, Raphaël. Processing a toujours été
+un carnet de croquis. Nous avons rendu
+
+141
+00:10:37,680 --> 00:10:42,879
+très facile l'exploration d'idées avec
+des briques simples, qu'on peut rendre
+
+142
+00:10:42,959 --> 00:10:45,840
+plus sophistiquées.
+Dans la lignée de cet héritage,
+
+143
+00:10:45,920 --> 00:10:50,240
+nous voulons faire entrer Processing
+dans une nouvelle ère.
+
+144
+00:10:50,320 --> 00:10:54,870
+Dans la future version 5.0
+de Processing,
+
+145
+00:10:55,120 --> 00:10:59,920
+nous voulons tirer parti des nombreuses
+avancées du graphisme en temps réel
+
+146
+00:11:00,000 --> 00:11:03,600
+et de l'interactivité
+de ces 25 dernières années.
+
+147
+00:11:03,680 --> 00:11:08,319
+Par exemple, on peut prendre le sketch
+de nuée de Dan Shiffman tiré de
+
+148
+00:11:08,399 --> 00:11:11,230
+The Nature of Code et le passer
+sur un compute shader,
+
+149
+00:11:11,519 --> 00:11:18,300
+pour passer facilement d'une nuée
+de 200 boids à 20 000
+
+150
+00:11:18,560 --> 00:11:21,099
+tout en gardant une fluidité interactive.
+
+151
+00:11:21,279 --> 00:11:23,030
+Et ça marche aussi en 3D.
+
+152
+00:11:23,839 --> 00:11:29,080
+Autre chose qui nous enthousiasme :
+pouvoir soutenir des artistes
+
+153
+00:11:29,200 --> 00:11:32,610
+aux pratiques différentes.
+Notamment grâce à l'interopérabilité.
+
+154
+00:11:33,200 --> 00:11:37,520
+Pouvoir travailler avec d'autres logiciels
+et d'autres matériels,
+
+155
+00:11:37,600 --> 00:11:39,670
+pas seulement dans Processing.
+
+156
+00:11:40,320 --> 00:11:44,560
+Nous voulons aussi permettre à chacun
+de créer ses propres outils, car
+
+157
+00:11:44,640 --> 00:11:50,770
+chaque artiste a sa façon de travailler,
+nos outils doivent s'adapter à nos pratiques,
+
+158
+00:11:50,880 --> 00:11:52,990
+et non l'inverse.
+
+159
+00:11:53,279 --> 00:11:55,840
+Processing veut vraiment soutenir ça.
+
+160
+00:11:55,920 --> 00:12:02,160
+Ah, et ce que je dois absolument dire :
+les artistes peuvent et doivent posséder
+
+161
+00:12:02,240 --> 00:12:03,430
+les moyens de production.
+
+162
+00:12:04,079 --> 00:12:09,199
+Oui, exactement. Bon, ici,
+une de nos contributrices,
+
+163
+00:12:09,279 --> 00:12:15,999
+Charlotte McElwain, a scanné un lapin
+avec son téléphone, a pris ces données 3D,
+
+164
+00:12:16,079 --> 00:12:21,770
+les a passées dans un logiciel 3D libre,
+les a exportées en glTF,
+
+165
+00:12:22,800 --> 00:12:25,280
+puis importées dans un sketch Processing.
+
+166
+00:12:25,360 --> 00:12:29,840
+Processing 5.0 intégrera aussi
+des briques simples pour créer
+
+167
+00:12:29,920 --> 00:12:34,720
+des systèmes de particules. Ici,
+on voit toutes ces particules voler
+
+168
+00:12:34,800 --> 00:12:36,480
+en formant le lapin.
+
+169
+00:12:36,560 --> 00:12:41,520
+On veut qu'il soit très simple
+de manipuler ces primitives,
+
+170
+00:12:41,600 --> 00:12:43,439
+à haut comme à bas niveau.
+
+171
+00:12:43,519 --> 00:12:45,920
+Bref, je suis super enthousiaste.
+
+172
+00:12:47,279 --> 00:12:50,640
+RAPHAËL : Processing Java est sorti
+pour la première fois le 9 août 2001.
+
+173
+00:12:50,720 --> 00:12:55,040
+Avec le même calcul douteux
+que pour l'âge des chiens,
+
+174
+00:12:55,120 --> 00:12:58,400
+ça lui fait… 250 ans
+en années logiciel ?
+
+175
+00:12:58,480 --> 00:13:04,020
+Oui. Cette longévité en dit long
+sur la communauté que Processing
+
+176
+00:13:04,160 --> 00:13:05,920
+a su réunir. Aujourd'hui encore,
+
+177
+00:13:06,000 --> 00:13:10,879
+la famille de logiciels Processing doit
+beaucoup à près d'un millier
+
+178
+00:13:10,959 --> 00:13:12,009
+de contributeurs.
+
+179
+00:13:12,480 --> 00:13:16,160
+Sans compter les bibliothèques tierces,
+les modes,
+
+180
+00:13:16,240 --> 00:13:18,369
+les outils et les exemples de code.
+
+181
+00:13:19,200 --> 00:13:21,870
+Et contribuer, ce n'est pas
+seulement écrire du code.
+
+182
+00:13:22,399 --> 00:13:26,979
+Si vous avez déjà fait découvrir
+Processing ou p5.js à vos élèves,
+
+183
+00:13:27,200 --> 00:13:30,879
+si vous avez organisé un Processing
+Community Day dans votre ville,
+
+184
+00:13:30,959 --> 00:13:35,280
+ou si vous avez répondu à des questions
+très basiques sur le forum,
+
+185
+00:13:35,360 --> 00:13:37,520
+rien de tout ça n'aurait été
+possible sans vous.
+
+186
+00:13:37,600 --> 00:13:40,679
+Et je tiens à vous remercier
+du fond du cœur.
+
+187
+00:13:43,279 --> 00:13:48,460
+XIN : Le succès de Processing ne peut pas
+reposer uniquement sur la bonne volonté.
+
+188
+00:13:48,639 --> 00:13:55,639
+Si Processing Java et p5 sont pérennes,
+fiables et modernisés,
+
+189
+00:13:56,240 --> 00:14:01,999
+c'est grâce à des donateurs comme vous,
+qui assurent un financement stable et fiable.
+
+190
+00:14:02,160 --> 00:14:07,119
+Grâce à des artistes incroyables
+qui nous soutiennent depuis des années,
+
+191
+00:14:07,199 --> 00:14:12,480
+nous avons enfin pu réunir des fonds,
+et j'ai aujourd'hui l'immense plaisir
+
+192
+00:14:12,560 --> 00:14:16,559
+de vous annoncer le Fonds de maintenance
+de la Processing Foundation.
+
+193
+00:14:16,639 --> 00:14:19,999
+La Processing Foundation
+versera 200 000 dollars
+
+194
+00:14:20,720 --> 00:14:25,899
+chaque année
+à Processing Java et à p5.js.
+
+195
+00:14:26,480 --> 00:14:31,920
+Ainsi, les logiciels avec lesquels
+nous avons grandi et que nous aimons,
+
+196
+00:14:32,000 --> 00:14:33,199
+pourront durer pour toujours.
+
+197
+00:14:34,435 --> 00:14:39,439
+[applaudissements]
+
+198
+00:14:39,519 --> 00:14:44,720
+Et nous annonçons en même temps
+le Fonds de développement
+
+199
+00:14:44,800 --> 00:14:45,929
+de la Processing Foundation.
+
+200
+00:14:47,199 --> 00:14:52,559
+Tout ce que vous voyez dans le Deep Space,
+en pleine résolution 8K, ce sont
+
+201
+00:14:52,639 --> 00:14:54,980
+des premiers prototypes de Processing 5.
+
+202
+00:14:55,760 --> 00:15:01,680
+Processing 5, la prochaine version majeure,
+pourra grandir avec les artistes
+
+203
+00:15:01,760 --> 00:15:03,820
+pendant les 25 prochaines années.
+
+204
+00:15:03,920 --> 00:15:07,600
+Alors rejoignez-nous : donnez
+au Fonds de développement de Processing.
+
+205
+00:15:07,680 --> 00:15:10,209
+J'aimerais tant construire
+cet avenir avec vous.
+
+206
+00:15:10,460 --> 00:15:12,800
+[applaudissements]
+
+207
+00:15:12,880 --> 00:15:17,840
+CASSIE : Depuis 25 ans, Processing est distribué
+gratuitement, et son code source
+
+208
+00:15:17,920 --> 00:15:22,920
+est librement accessible à tous
+pour l'étudier, le modifier et l'utiliser.
+
+209
+00:15:23,760 --> 00:15:28,250
+Mais comme le dit souvent Casey Reas,
+le logiciel libre coûte cher à produire.
+
+210
+00:15:28,399 --> 00:15:32,879
+Processing dépend de gens qui choisissent
+de donner leur temps, leurs efforts
+
+211
+00:15:32,959 --> 00:15:37,920
+et leur argent. Ce projet ne survivra
+que si nous croyons collectivement
+
+212
+00:15:38,000 --> 00:15:40,369
+qu'on peut faire du logiciel autrement.
+
+213
+00:15:40,880 --> 00:15:44,080
+Par une communauté,
+et pour une communauté.
+
+214
+00:15:44,160 --> 00:15:47,249
+Tissez avec moi un fil
+dans la tapisserie.
+
+215
+00:15:47,760 --> 00:15:49,830
+TOUS : Joyeux anniversaire, Processing !
+
+216
+00:15:50,415 --> 00:15:54,990
+[applaudissements]
+
+217
+00:16:02,861 --> 00:16:05,401
+[acclamations]
+
+218
+00:16:05,481 --> 00:16:07,366
+[musique et applaudissements]
+
+219
+00:16:07,446 --> 00:16:10,641
+[acclamations]
+
+220
+00:16:10,721 --> 00:16:14,571
+[applaudissements]
+
+221
+00:16:14,651 --> 00:16:16,671
+[musique]

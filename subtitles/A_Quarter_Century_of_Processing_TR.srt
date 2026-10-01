@@ -1,0 +1,1051 @@
+1
+00:00:05,894 --> 00:00:14,320
+[müzik]
+
+2
+00:00:14,400 --> 00:00:15,400
+XIN: Evet…
+
+3
+00:00:16,560 --> 00:00:20,170
+Ekrandan önce dokuma tezgâhı vardı.
+
+4
+00:00:20,720 --> 00:00:23,919
+Piksellerden önce iplikler vardı.
+
+5
+00:00:27,119 --> 00:00:33,120
+Dokuma tezgâhı, iplikleri gergin tutar
+ki üzerine yeni iplikler
+
+6
+00:00:33,200 --> 00:00:37,440
+eklenebilsin. Açık kaynak yazılım
+da bir dokuma tezgâhı gibidir.
+
+7
+00:00:37,520 --> 00:00:43,600
+Yeni insanlar gelir, yeni iplikler ekler,
+dokumayı büyütüp genişletir;
+
+8
+00:00:43,680 --> 00:00:48,020
+daha canlı, daha diri
+ve daha güzel olsun diye.
+
+9
+00:00:48,800 --> 00:00:51,590
+Bu akşam Processing'i
+kutlamak için buradayız.
+
+10
+00:00:53,249 --> 00:00:53,760
+[alkış]
+
+11
+00:00:53,840 --> 00:00:57,739
+Bu, 25 yıldır dokumaya devam eden
+bizim tezgâhımız.
+
+12
+00:00:58,160 --> 00:01:02,748
+Eklediğimiz yeni iplikleri size
+anlatmak için sabırsızlanıyoruz.
+
+13
+00:01:03,680 --> 00:01:07,160
+CASSIE: Processing'in hikâyesi
+25 yıldan uzun süre önce başladı.
+
+14
+00:01:07,760 --> 00:01:12,320
+1996'da bilgisayar bilimi, teknik
+geçmişi olmayanlar için erişilmezdi;
+
+15
+00:01:12,400 --> 00:01:15,988
+bilgisayar grafikleri ise
+özellikle karmaşıktı.
+
+16
+00:01:16,159 --> 00:01:19,420
+Kod yazan sanatçıların sayısı
+çok azdı.
+
+17
+00:01:20,320 --> 00:01:25,260
+MIT Media Lab'deki Aesthetics and
+Computation laboratuvarında şu soruldu:
+
+18
+00:01:25,520 --> 00:01:28,339
+"Bilgisayarla sanat yapmak
+ne demek?
+
+19
+00:01:28,560 --> 00:01:33,520
+Sanatçıların ve tasarımcıların kodu
+yaratıcı bir ifade ortamı olarak
+
+20
+00:01:33,600 --> 00:01:37,440
+kullanabileceği bir araç yapabilir miyiz?"
+Baş araştırmacı John Maeda
+
+21
+00:01:37,520 --> 00:01:40,800
+bu sorulara Design by Numbers'ı
+yaratarak yanıt verdi.
+
+22
+00:01:40,880 --> 00:01:44,939
+Dijital tuval kavramına öncülük eden
+bir yazılımdı bu.
+
+23
+00:01:45,360 --> 00:01:49,029
+Yaratıcılığın sadelikten
+doğduğuna inanıyordu.
+
+24
+00:01:49,280 --> 00:01:54,079
+Tuvali 100 × 100 piksel ile sınırladı,
+renkleri de
+
+25
+00:01:54,159 --> 00:01:55,159
+gri tonlarla.
+
+26
+00:01:56,000 --> 00:02:02,399
+2001'de, 25 yıl önce, öğrencilerinden
+ikisi, Casey Reas ve Ben Fry,
+
+27
+00:02:02,479 --> 00:02:07,520
+sanatçılara ve tasarımcılara
+Design by Numbers üzerinden
+
+28
+00:02:07,600 --> 00:02:09,894
+basit grafiği başarıyla
+öğrettikten sonra
+
+29
+00:02:10,160 --> 00:02:14,159
+daha fazla ifade potansiyeli gördüler
+ve kendi sürümlerini yarattılar:
+
+30
+00:02:14,239 --> 00:02:15,239
+Processing.
+
+31
+00:02:15,840 --> 00:02:20,640
+Renk ve 3D grafik eklediler,
+tuvali büyüttüler;
+
+32
+00:02:20,720 --> 00:02:24,449
+ama basit ve sınırlı komutların
+değerini korudular.
+
+33
+00:02:25,280 --> 00:02:29,300
+Amaçları, eskiz yapmak için
+bir yazılım yaratmaktı.
+
+34
+00:02:29,920 --> 00:02:34,720
+Geleneksel yöntemde, tek satır kod
+yazmadan önce
+
+35
+00:02:34,800 --> 00:02:37,094
+eksiksiz bir plan yapılır.
+
+36
+00:02:37,280 --> 00:02:39,600
+Bu, mühendislik sorunlarında işe yarar
+
+37
+00:02:39,680 --> 00:02:43,920
+ama keşfi, icadı ya da oyunu
+desteklemez.
+
+38
+00:02:44,000 --> 00:02:48,320
+Processing ile sanatçılar kodla
+dijital fırçalarını tuvalde gezdirip
+
+39
+00:02:48,400 --> 00:02:52,400
+beklenmedik yollar keşfeder
+ve onları izler.
+
+40
+00:02:52,480 --> 00:02:55,920
+Süreç, sonuç kadar
+önemli hâle gelir.
+
+41
+00:03:00,080 --> 00:03:06,059
+MOON: Processing en başından beri
+kodu bir doğaçlama aracına dönüştürdü.
+
+42
+00:03:06,560 --> 00:03:11,080
+Onunla ilk kez 20 yıl önce bir
+bilgisayar grafikleri dersinde tanıştım.
+
+43
+00:03:12,560 --> 00:03:17,680
+Özgürleşmiş hissettiğimi hatırlıyorum;
+alt düzey ayrıntılara
+
+44
+00:03:17,760 --> 00:03:21,800
+takılmadan yaratıcılığı
+deneyimleyebiliyordum.
+
+45
+00:03:22,480 --> 00:03:29,480
+Casey ile Ben'in tezgâha gerdiğine
+ben "zarif soyutlama" diyorum.
+
+46
+00:03:31,200 --> 00:03:35,370
+Yazılımın içinde
+setup ve draw var.
+
+47
+00:03:36,000 --> 00:03:42,540
+setup çözgü gibidir. Tezgâha
+bir kez gerersiniz ve sabit kalır.
+
+48
+00:03:43,040 --> 00:03:49,519
+draw atkı gibidir. Bir uçtan öbürüne
+tekrar tekrar geçen iplik,
+
+49
+00:03:49,599 --> 00:03:52,159
+tekrar tekrar. Deney işe yaradı.
+
+50
+00:03:52,239 --> 00:03:55,030
+Pek çok insan
+Processing öğrenmeye geldi.
+
+51
+00:03:55,440 --> 00:04:02,160
+Çizgi ve daire çizerek başlayıp
+müzeler için eserler,
+
+52
+00:04:02,640 --> 00:04:08,079
+kamusal alanlar için enstalasyonlar
+ve araştırma için görselleştirmeler yaptılar.
+
+53
+00:04:08,159 --> 00:04:11,680
+Processing basit kavramlar
+üzerine kuruldu,
+
+54
+00:04:11,760 --> 00:04:17,270
+ama sanatçılar onunla hep
+iddialı projeler üretmenin yolunu buldu.
+
+55
+00:04:17,519 --> 00:04:21,489
+Buna alçak zemin, geniş duvarlar
+ve yüksek tavan diyoruz.
+
+56
+00:04:21,840 --> 00:04:24,880
+Yani Processing kuruluş
+misyonunu gerçekleştirdi.
+
+57
+00:04:27,040 --> 00:04:30,490
+RAPHAËL: Processing'le ilk
+karşılaşmam 2012'deydi.
+
+58
+00:04:31,440 --> 00:04:36,800
+Çok geleneksel, açıkçası çok Fransız
+tarzı bir uygulamalı sanatlar
+
+59
+00:04:36,880 --> 00:04:42,880
+eğitiminden yeni çıkmıştım. Processing
+bana tasarımı düşünmenin
+
+60
+00:04:42,960 --> 00:04:49,679
+bambaşka bir yolunu gösterdi. Birden
+kendi yaratıcı yazılımımı yapabiliyordum.
+
+61
+00:04:49,759 --> 00:04:54,240
+Üstelik dil o kadar basitti ki
+kodu okuyabiliyor,
+
+62
+00:04:54,320 --> 00:04:57,050
+yazabiliyor ve anlayabiliyordum.
+
+63
+00:04:57,759 --> 00:05:02,800
+Tamamen acemiydim, ama yine de
+Processing topluluğu beni kucakladı
+
+64
+00:05:02,880 --> 00:05:07,409
+ve çok temel sorular sorduğumda bile
+kendimi yabancı hissettirmedi.
+
+65
+00:05:07,919 --> 00:05:13,610
+2. sürüm çıktığında
+sürüm notlarında şaka yollu şöyle yazıyordu:
+
+66
+00:05:13,919 --> 00:05:20,200
+"Processing, yetenekli tasarımcıları
+alışık oldukları araçlardan uzaklaştırıp
+
+67
+00:05:20,320 --> 00:05:25,839
+bilişim ve programlama dünyasına çekerek
+kariyerlerini mahvetmeyi amaçlıyor."
+
+68
+00:05:25,919 --> 00:05:30,399
+Bence Processing hayatımı ve kariyerimi
+sadece çok daha
+
+69
+00:05:30,479 --> 00:05:31,730
+heyecanlı hâle getirdi.
+
+70
+00:05:33,120 --> 00:05:38,559
+CASSIE: 2002'de Dan Shiffman, NYU'nun
+Interactive Telecommunications Program'ında,
+
+71
+00:05:38,639 --> 00:05:41,000
+yani ITP'de öğrenciyken
+Processing öğrendi.
+
+72
+00:05:41,600 --> 00:05:45,600
+Mezun olduktan sonra yüzlerce örnek yaptı
+ve sonunda ITP'de
+
+73
+00:05:45,680 --> 00:05:47,880
+Processing öğreten bir profesör oldu.
+
+74
+00:05:48,400 --> 00:05:51,920
+O zamandan beri eğitim materyalleriyle
+Processing topluluğunu büyüttü:
+
+75
+00:05:52,000 --> 00:05:56,480
+The Nature of Code gibi kitaplar yazdı
+ve neşeli YouTube kanalı
+
+76
+00:05:56,560 --> 00:05:59,899
+The Coding Train'de
+çevrimiçi dersler paylaştı.
+
+77
+00:06:00,320 --> 00:06:02,559
+Processing'i keşfetmeden önce
+
+78
+00:06:02,639 --> 00:06:05,227
+kod yazmayı mühendislik
+öğrencisiyken öğrendim.
+
+79
+00:06:05,440 --> 00:06:10,080
+Soyut komut satırı arayüzleri yaptım,
+veri yapıları öğrendim.
+
+80
+00:06:10,160 --> 00:06:15,440
+Mezun olduktan sonra bile
+etkili ya da somut bir şey
+
+81
+00:06:15,520 --> 00:06:20,399
+yapamıyormuşum gibi hissediyordum.
+Gençken MySpace ve Neopets.te site yapmak
+
+82
+00:06:20,479 --> 00:06:21,520
+daha çok güç vermişti.
+
+83
+00:06:22,400 --> 00:06:28,000
+Mezuniyetten kısa süre sonra ITP'nin
+dönem sonu öğrenci sergisine gittim.
+
+84
+00:06:28,080 --> 00:06:33,679
+Etkileyici ve ifade gücü yüksek işler
+gördüm; bazıları sadece
+
+85
+00:06:33,759 --> 00:06:36,149
+bir dönemlik kodlama deneyimiyle yapılmıştı.
+
+86
+00:06:36,720 --> 00:06:40,320
+Mühendislik eğitimimden çok farklıydı
+ve yaratıcı kodlama hakkında
+
+87
+00:06:40,400 --> 00:06:42,239
+daha fazlasını öğrenmek istedim.
+
+88
+00:06:42,319 --> 00:06:45,280
+2013'te Lauren Lee McCarthy şunu sordu:
+
+89
+00:06:45,360 --> 00:06:49,280
+"Processing 12 yıl sonra yaratılsaydı
+nasıl olurdu?"
+
+90
+00:06:49,360 --> 00:06:54,399
+Yanıt p5'ti. Processing sanatçılara
+kod yazdırmıştı;
+
+91
+00:06:54,479 --> 00:06:58,140
+p5 ise kullanıcı topluluğunu
+sadece genişletmeyi değil,
+
+92
+00:06:58,240 --> 00:07:01,122
+onlara yazılımın kendisini
+şekillendirme gücü vermeyi amaçladı.
+
+93
+00:07:01,360 --> 00:07:04,948
+Dahil olmak istememin nedeni
+tam da bu misyondu.
+
+94
+00:07:05,120 --> 00:07:08,559
+2016'da Lauren ve Dan'in
+davetiyle
+
+95
+00:07:08,639 --> 00:07:14,000
+çevrimiçi editörü geliştirdim; p5'i
+internetteki yaratıcılar için
+
+96
+00:07:14,080 --> 00:07:16,800
+daha da erişilebilir kılmak için.
+Lauren'la birlikte
+
+97
+00:07:16,880 --> 00:07:22,320
+kadınları, LGBTQ+ topluluğunu,
+beyaz olmayan insanları ve
+
+98
+00:07:22,400 --> 00:07:26,959
+engellileri, yani bilgisayar bilimi ve
+mühendislikten tarihsel olarak
+
+99
+00:07:27,039 --> 00:07:29,319
+dışlanmış insanları açıkça
+karşılayan bir kapı açtık.
+
+100
+00:07:29,599 --> 00:07:33,910
+p5 yaratıcı kodlamayı kökten dönüştürdü
+ve milyonlarca insan akın etti.
+
+101
+00:07:34,160 --> 00:07:38,880
+2022'de p5 editörünün bayrağını
+Rachel Lim'e devrettim;
+
+102
+00:07:38,960 --> 00:07:42,399
+çünkü projenin kariyerime kattığı her şeyi
+bir başkasına da
+
+103
+00:07:42,479 --> 00:07:43,630
+vermesini istedim.
+
+104
+00:07:45,840 --> 00:07:50,720
+Q: p5.js'yi düşündüğümde, onu yapan
+ve yapmaya devam eden
+
+105
+00:07:50,800 --> 00:07:56,060
+insanları düşünürüm. Lauren, p5'i
+yedi yıl boyunca yarattı ve yönetti.
+
+106
+00:07:56,160 --> 00:08:01,119
+2020'de projeyi başkalarının
+yönlendirmesine alan açmaya karar verdi.
+
+107
+00:08:01,840 --> 00:08:07,040
+p5'in dönüşümlü liderlik modeli sayesinde
+Moira Turner, cypress masso
+
+108
+00:08:07,120 --> 00:08:10,619
+ve ben sonraki yıllarda
+liderliğe geldik.
+
+109
+00:08:11,360 --> 00:08:17,280
+Bugün Kit Kuksenok projeyi taşıyor
+ve bir gün bayrak
+
+110
+00:08:17,360 --> 00:08:23,300
+bir sonraki lidere geçecek. Çoğumuz p5 için
+geliriz ama topluluk için kalırız.
+
+111
+00:08:23,680 --> 00:08:28,160
+İnsanların içinde büyüyebildiği bir açık
+kaynak projesi kurduğumuz için gururluyum.
+
+112
+00:08:28,240 --> 00:08:32,099
+Kimse bir gecede
+bakımcı olmaz.
+
+113
+00:08:32,640 --> 00:08:37,349
+Bu yüzden bir yol çizdik:
+katkıcı, steward, bakımcı.
+
+114
+00:08:37,599 --> 00:08:42,399
+Farklı alanlar için steward çağrıları
+yaptık, çünkü kimse aynı anda
+
+115
+00:08:42,479 --> 00:08:47,920
+erişilebilirlik, tipografi ve shader'larda
+uzman olamaz.
+
+116
+00:08:48,000 --> 00:08:51,829
+Her steward p5'in bir bölümünün
+sorumluluğunu üstlenir,
+
+117
+00:08:52,000 --> 00:08:56,080
+orada güven ve uzmanlık kazanır
+ve zamanla
+
+118
+00:08:56,160 --> 00:09:00,400
+bakımcı rolüne geçebilir. Bu yolda
+insanlara mentorluk
+
+119
+00:09:00,480 --> 00:09:05,360
+ve ücretle yatırım yapıyoruz. Herkesin
+açık kaynağa gönüllü zaman ayırma
+
+120
+00:09:05,440 --> 00:09:08,499
+ayrıcalığına sahip olmadığını
+kabul etmek önemli.
+
+121
+00:09:09,600 --> 00:09:13,670
+Yazılım çoğu zaman yüzsüz görünür,
+arkasındaki insanları gizler.
+
+122
+00:09:14,160 --> 00:09:18,639
+Ama her açık kaynak projesinin ardında
+hikâyeleri, duyguları
+
+123
+00:09:18,720 --> 00:09:21,020
+ve ilişkileri olan gerçek insanlar var.
+
+124
+00:09:21,120 --> 00:09:23,296
+O insanları görünür kılmalı,
+
+125
+00:09:23,839 --> 00:09:27,290
+onlara yatırım yapmalı ve
+büyümeleri için fırsat yaratmalıyız.
+
+126
+00:09:27,680 --> 00:09:32,179
+Özünde açık kaynak, topluluk tarafından
+topluluk için yapılır.
+
+127
+00:09:34,000 --> 00:09:39,759
+RAPHAËL: Processing Java çok uzun
+zamandır var ve hâlâ dünya çapında
+
+128
+00:09:39,839 --> 00:09:41,520
+milyonlarca kişi onu seviyor.
+
+129
+00:09:41,600 --> 00:09:46,010
+Ama yıllar içinde,
+çok sevilen bir aile evi gibi,
+
+130
+00:09:46,320 --> 00:09:48,800
+bazı bölümleri
+yaşını göstermeye başladı.
+
+131
+00:09:48,880 --> 00:09:53,920
+Son dönemdeki çalışmalarımızın çoğu
+temelini güçlendirmek,
+
+132
+00:09:54,000 --> 00:09:57,520
+kod tabanını
+elden geçirmek,
+
+133
+00:09:57,600 --> 00:10:02,689
+geliştirici deneyimini çağdaşlaştırmak
+ve yeni gelenleri
+
+134
+00:10:02,880 --> 00:10:05,370
+ilk katkılarını yapmaya davet etmek oldu.
+
+135
+00:10:08,000 --> 00:10:13,040
+Bu işin büyük kısmını,
+perde arkasında bu modernleşme
+
+136
+00:10:13,120 --> 00:10:15,360
+çabasına öncülük eden Stef yaptı.
+
+137
+00:10:15,440 --> 00:10:20,240
+Geçen eylülde de Moon Davé
+tam zamanlı lider olarak aramıza katıldı.
+
+138
+00:10:20,320 --> 00:10:27,040
+Processing'e taze fikirler getiriyor
+ve tavanı yükseltiyor:
+
+139
+00:10:27,120 --> 00:10:31,280
+Processing'le neler yapılabileceğinin
+ve projenin neye dönüşebileceğinin.
+
+140
+00:10:31,360 --> 00:10:37,600
+MOON: Teşekkürler Raphaël. Processing
+her zaman bir eskiz defteri oldu.
+
+141
+00:10:37,680 --> 00:10:42,879
+Fikirleri, daha gelişkin hâle
+getirilebilen basit yapı taşlarıyla
+
+142
+00:10:42,959 --> 00:10:45,840
+keşfetmeyi çok kolaylaştırdık.
+Bu mirasın üzerine,
+
+143
+00:10:45,920 --> 00:10:50,240
+Processing'i yeni bir çağa
+taşımak istiyoruz.
+
+144
+00:10:50,320 --> 00:10:54,870
+Processing'in yakında çıkacak
+5.0 sürümünde
+
+145
+00:10:55,120 --> 00:10:59,920
+son 25 yılda gerçek zamanlı grafik
+ve etkileşimde yaşanan
+
+146
+00:11:00,000 --> 00:11:03,600
+pek çok ilerlemeden
+yararlanmak istiyoruz.
+
+147
+00:11:03,680 --> 00:11:08,319
+Örneğin Dan Shiffman'ın The Nature of
+Code'daki sürü eskizini alıp
+
+148
+00:11:08,399 --> 00:11:11,230
+bir compute shader'a taşıyabilirsiniz;
+
+149
+00:11:11,519 --> 00:11:18,300
+böylece sürüyü kolayca
+200 boid'den 20.000'e çıkarırken
+
+150
+00:11:18,560 --> 00:11:21,099
+etkileşimli kare hızını korursunuz.
+
+151
+00:11:21,279 --> 00:11:23,030
+Üstelik 3D'de de yapabilirsiniz.
+
+152
+00:11:23,839 --> 00:11:29,080
+Bizi çok heyecanlandıran bir şey de
+farklı süreçlerle çalışan
+
+153
+00:11:29,200 --> 00:11:32,610
+sanatçıları destekleyebilmek.
+Bunun bir yolu birlikte çalışabilirlik.
+
+154
+00:11:33,200 --> 00:11:37,520
+Yani sadece Processing içinde değil,
+başka yazılım ve donanım projeleriyle
+
+155
+00:11:37,600 --> 00:11:39,670
+birlikte çalışabilmek.
+
+156
+00:11:40,320 --> 00:11:44,560
+Ayrıca insanların kendi araçlarını
+yapabilmesini istiyoruz, çünkü
+
+157
+00:11:44,640 --> 00:11:50,770
+her sanatçının kendi çalışma biçimi var;
+araçlar pratiğimize uymalı,
+
+158
+00:11:50,880 --> 00:11:52,990
+tersi değil.
+
+159
+00:11:53,279 --> 00:11:55,840
+Processing bunu gerçekten desteklemek istiyor.
+
+160
+00:11:55,920 --> 00:12:02,160
+Ha, bir de mutlaka söylemem gereken şey:
+sanatçılar üretim araçlarına
+
+161
+00:12:02,240 --> 00:12:03,430
+sahip olabilir ve olmalıdır.
+
+162
+00:12:04,079 --> 00:12:09,199
+Evet, aynen öyle. Şimdi şuraya bakın,
+katkıcılarımızdan biri,
+
+163
+00:12:09,279 --> 00:12:15,999
+Charlotte McElwain, telefonuyla
+bir tavşan taradı, o 3D veriyi
+
+164
+00:12:16,079 --> 00:12:21,770
+açık kaynaklı bir 3D yazılıma aktardı,
+glTF olarak dışa aktardı
+
+165
+00:12:22,800 --> 00:12:25,280
+ve bir Processing eskizine aldı.
+
+166
+00:12:25,360 --> 00:12:29,840
+Processing 5.0'da parçacık sistemleri
+oluşturmak için basit yapı taşları
+
+167
+00:12:29,920 --> 00:12:34,720
+da yerleşik olacak. Burada
+tüm bu parçacıkların
+
+168
+00:12:34,800 --> 00:12:36,480
+tavşan şeklinde uçuştuğunu görüyoruz.
+
+169
+00:12:36,560 --> 00:12:41,520
+Bu temel öğelerle çalışmanın
+çok kolay olmasını istiyoruz,
+
+170
+00:12:41,600 --> 00:12:43,439
+ister üst düzeyde ister alt düzeyde.
+
+171
+00:12:43,519 --> 00:12:45,920
+Neyse, çok heyecanlıyım!
+
+172
+00:12:47,279 --> 00:12:50,640
+RAPHAËL: Processing Java ilk kez
+9 Ağustos 2001'de yayımlandı.
+
+173
+00:12:50,720 --> 00:12:55,040
+Köpek yaşı için kullandığımız
+o şüpheli hesapla,
+
+174
+00:12:55,120 --> 00:12:58,400
+bu eder… yazılım yılıyla 250 yaş?
+
+175
+00:12:58,480 --> 00:13:04,020
+Evet. Bu uzun ömür, Processing'in
+nasıl bir topluluğu bir araya getirdiğini
+
+176
+00:13:04,160 --> 00:13:05,920
+çok iyi anlatıyor. Bugün hâlâ
+
+177
+00:13:06,000 --> 00:13:10,879
+Processing yazılım ailesi, bine yakın
+bireysel katkıcıya
+
+178
+00:13:10,959 --> 00:13:12,009
+çok şey borçlu.
+
+179
+00:13:12,480 --> 00:13:16,160
+Üstelik üçüncü taraf kütüphaneler,
+modlar,
+
+180
+00:13:16,240 --> 00:13:18,369
+araçlar ve kod örnekleri hariç.
+
+181
+00:13:19,200 --> 00:13:21,870
+Katkı da kodla
+sınırlı değil.
+
+182
+00:13:22,399 --> 00:13:26,979
+Processing'i ya da p5.js'yi
+sınıfınıza taşıdıysanız,
+
+183
+00:13:27,200 --> 00:13:30,879
+şehrinizde bir Processing
+Community Day düzenlediyseniz
+
+184
+00:13:30,959 --> 00:13:35,280
+ya da forumda çok temel
+soruları yanıtladıysanız,
+
+185
+00:13:35,360 --> 00:13:37,520
+bunların hiçbiri
+sizsiz mümkün olmazdı.
+
+186
+00:13:37,600 --> 00:13:40,679
+Size yürekten
+teşekkür etmek istiyorum.
+
+187
+00:13:43,279 --> 00:13:48,460
+XIN: Processing'in başarısı
+yalnızca iyi niyete dayanamaz.
+
+188
+00:13:48,639 --> 00:13:55,639
+Processing Java ve p5'in sürdürülebilir,
+güvenilir ve modern olması,
+
+189
+00:13:56,240 --> 00:14:01,999
+istikrarlı ve güvenilir fon sağlayan
+sizin gibi bağışçılar sayesinde.
+
+190
+00:14:02,160 --> 00:14:07,119
+Yıllardır bizi destekleyen
+harika sanatçılar sayesinde
+
+191
+00:14:07,199 --> 00:14:12,480
+sonunda fon toplayabildik ve bugün
+size büyük bir heyecanla
+
+192
+00:14:12,560 --> 00:14:16,559
+Processing Foundation Bakım Fonu'nu
+duyuruyorum.
+
+193
+00:14:16,639 --> 00:14:19,999
+Processing Foundation
+her yıl 200.000 doları
+
+194
+00:14:20,720 --> 00:14:25,899
+Processing Java'ya ve p5.js'ye
+aktaracak.
+
+195
+00:14:26,480 --> 00:14:31,920
+Böylece birlikte büyüdüğümüz, sevdiğimiz
+ve kullandığımız yazılım
+
+196
+00:14:32,000 --> 00:14:33,199
+hep var olabilecek.
+
+197
+00:14:34,435 --> 00:14:39,439
+[alkış]
+
+198
+00:14:39,519 --> 00:14:44,720
+Aynı zamanda Processing Foundation
+Geliştirme Fonu'nu da
+
+199
+00:14:44,800 --> 00:14:45,929
+duyuruyoruz.
+
+200
+00:14:47,199 --> 00:14:52,559
+Deep Space'te tam 8K çözünürlükte
+gördüğünüz her şey aslında
+
+201
+00:14:52,639 --> 00:14:54,980
+Processing 5'in ilk prototipleri.
+
+202
+00:14:55,760 --> 00:15:01,680
+Bir sonraki büyük sürüm Processing 5,
+sanatçılarla birlikte
+
+203
+00:15:01,760 --> 00:15:03,820
+önümüzdeki 25 yıla büyüyebilir.
+
+204
+00:15:03,920 --> 00:15:07,600
+Umarız bize katılır, Processing
+Geliştirme Fonu'na bağış yaparsınız.
+
+205
+00:15:07,680 --> 00:15:10,209
+Bu geleceği sizinle birlikte
+kurmayı çok isterim.
+
+206
+00:15:10,460 --> 00:15:12,800
+[alkış]
+
+207
+00:15:12,880 --> 00:15:17,840
+CASSIE: 25 yıldır Processing ücretsiz
+dağıtılıyor ve kaynak kodu
+
+208
+00:15:17,920 --> 00:15:22,920
+herkesin incelemesine, değiştirmesine
+ve kullanmasına açık.
+
+209
+00:15:23,760 --> 00:15:28,250
+Ama Casey Reas'ın sık sık dediği gibi,
+özgür yazılımı yapmak pahalıdır.
+
+210
+00:15:28,399 --> 00:15:32,879
+Processing; zamanını, emeğini
+ve parasını vermeyi seçen
+
+211
+00:15:32,959 --> 00:15:37,920
+insanlara bağlı. Bu proje ancak
+yazılım üretmenin başka bir yolunun
+
+212
+00:15:38,000 --> 00:15:40,369
+mümkün olduğuna hep birlikte inanırsak yaşar.
+
+213
+00:15:40,880 --> 00:15:44,080
+Topluluk tarafından,
+topluluk için bir yol.
+
+214
+00:15:44,160 --> 00:15:47,249
+Bu dokumaya bir iplik eklemek için
+bana katılın.
+
+215
+00:15:47,760 --> 00:15:49,830
+HEP BİRLİKTE: İyi ki doğdun, Processing!
+
+216
+00:15:50,415 --> 00:15:54,990
+[alkış]
+
+217
+00:16:02,861 --> 00:16:05,401
+[tezahürat]
+
+218
+00:16:05,481 --> 00:16:07,366
+[müzik ve alkış]
+
+219
+00:16:07,446 --> 00:16:10,641
+[tezahürat]
+
+220
+00:16:10,721 --> 00:16:14,571
+[alkış]
+
+221
+00:16:14,651 --> 00:16:16,671
+[müzik]
