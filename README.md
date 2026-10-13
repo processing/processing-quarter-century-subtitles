@@ -29,7 +29,7 @@ The English file is the reference transcript, edited by the presenters. The tran
 | Persian | [FA](subtitles/A_Quarter_Century_of_Processing_FA.srt) | ☑️ Needs review |
 | Portuguese (Brazil) | [PT-BR](subtitles/A_Quarter_Century_of_Processing_PT-BR.srt) | ☑️ Needs review |
 | Spanish (Spain) | [ES](subtitles/A_Quarter_Century_of_Processing_ES.srt) | ☑️ Needs review |
-| Turkish | [TR](subtitles/A_Quarter_Century_of_Processing_TR.srt) | ☑️ Needs review |
+| Turkish | [TR](subtitles/A_Quarter_Century_of_Processing_TR.srt) | ✅ Reviewed |
 
 When you've reviewed a whole file, change its status to **Reviewed** in your pull request. If you reviewed only part of it, write which subtitle numbers you covered, for example "Reviewed 1–103".
 
