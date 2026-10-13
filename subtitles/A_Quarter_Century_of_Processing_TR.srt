@@ -31,7 +31,7 @@ dokumayı büyütüp genişletir;
 
 8
 00:00:43,680 --> 00:00:48,020
-daha canlı, daha diri
+daha dinamik, daha hayat dolu
 ve daha güzel olsun diye.
 
 9
@@ -46,7 +46,7 @@ kutlamak için buradayız.
 11
 00:00:53,840 --> 00:00:57,739
 Bu, 25 yıldır dokumaya devam eden
-bizim tezgâhımız.
+hepimizin tezgâhı.
 
 12
 00:00:58,160 --> 00:01:02,748
@@ -61,12 +61,11 @@ CASSIE: Processing'in hikâyesi
 14
 00:01:07,760 --> 00:01:12,320
 1996'da bilgisayar bilimi, teknik
-geçmişi olmayanlar için erişilmezdi;
+birikimi olmayanlar için erişilmezdi;
 
 15
 00:01:12,400 --> 00:01:15,988
-bilgisayar grafikleri ise
-özellikle karmaşıktı.
+özellikle bilgisayar grafikleriyle çalışmak oldukça karmaşıktı.
 
 16
 00:01:16,159 --> 00:01:19,420
@@ -75,13 +74,13 @@ Kod yazan sanatçıların sayısı
 
 17
 00:01:20,320 --> 00:01:25,260
-MIT Media Lab'deki Aesthetics and
-Computation laboratuvarında şu soruldu:
+MIT Media Lab'deki Estetik ve
+Hesaplama laboratuvarındaki araştırmacılar şu soruyu sordu:
 
 18
 00:01:25,520 --> 00:01:28,339
 "Bilgisayarla sanat yapmak
-ne demek?
+ne anlama geliyor?
 
 19
 00:01:28,560 --> 00:01:33,520
@@ -110,12 +109,12 @@ doğduğuna inanıyordu.
 
 24
 00:01:49,280 --> 00:01:54,079
-Tuvali 100 × 100 piksel ile sınırladı,
+Tuvali 100 × 100 piksel ölçeğine,
 renkleri de
 
 25
 00:01:54,159 --> 00:01:55,159
-gri tonlarla.
+gri tonlarla sınırladı.
 
 26
 00:01:56,000 --> 00:02:02,399
@@ -129,27 +128,26 @@ Design by Numbers üzerinden
 
 28
 00:02:07,600 --> 00:02:09,894
-basit grafiği başarıyla
+basit grafik işleme yöntemlerini başarıyla
 öğrettikten sonra
 
 29
 00:02:10,160 --> 00:02:14,159
 daha fazla ifade potansiyeli gördüler
-ve kendi sürümlerini yarattılar:
+ve Processing adıyla
 
 30
 00:02:14,239 --> 00:02:15,239
-Processing.
+kendi sürümlerini yarattılar.
 
 31
 00:02:15,840 --> 00:02:20,640
-Renk ve 3D grafik eklediler,
+Renk ve 3B grafik özellikleri eklediler,
 tuvali büyüttüler;
 
 32
 00:02:20,720 --> 00:02:24,449
-ama basit ve sınırlı komutların
-değerini korudular.
+ama işleyişe dair basitliği ve sadeliği korudular.
 
 33
 00:02:25,280 --> 00:02:29,300
@@ -167,12 +165,12 @@ eksiksiz bir plan yapılır.
 
 36
 00:02:37,280 --> 00:02:39,600
-Bu, mühendislik sorunlarında işe yarar
+Bu yöntem, mühendislik konularında işe yarar
 
 37
 00:02:39,680 --> 00:02:43,920
-ama keşfi, icadı ya da oyunu
-desteklemez.
+fakat yaratıcılık, yeni yaklaşımlar ya da eğlenceli
+çıktılar üretme potansiyelinin önüne geçer.
 
 38
 00:02:44,000 --> 00:02:48,320
@@ -181,8 +179,8 @@ dijital fırçalarını tuvalde gezdirip
 
 39
 00:02:48,400 --> 00:02:52,400
-beklenmedik yollar keşfeder
-ve onları izler.
+beklenmedik çıktılar keşfeder
+ve onların peşinden giderler.
 
 40
 00:02:52,480 --> 00:02:55,920
@@ -191,8 +189,8 @@ Süreç, sonuç kadar
 
 41
 00:03:00,080 --> 00:03:06,059
-MOON: Processing en başından beri
-kodu bir doğaçlama aracına dönüştürdü.
+MOON: En başından beri Processing
+kodu bir doğaçlama aracı olarak kullandı.
 
 42
 00:03:06,560 --> 00:03:11,080
@@ -201,8 +199,8 @@ bilgisayar grafikleri dersinde tanıştım.
 
 43
 00:03:12,560 --> 00:03:17,680
-Özgürleşmiş hissettiğimi hatırlıyorum;
-alt düzey ayrıntılara
+Kendimi özgürleşmiş hissettiğimi hatırlıyorum;
+karmaşık programlama ayrıntılarına
 
 44
 00:03:17,760 --> 00:03:21,800
@@ -217,7 +215,7 @@ ben "zarif soyutlama" diyorum.
 46
 00:03:31,200 --> 00:03:35,370
 Yazılımın içinde
-setup ve draw var.
+setup() ve draw() fonksiyonları var.
 
 47
 00:03:36,000 --> 00:03:42,540
@@ -245,8 +243,8 @@ müzeler için eserler,
 
 52
 00:04:02,640 --> 00:04:08,079
-kamusal alanlar için enstalasyonlar
-ve araştırma için görselleştirmeler yaptılar.
+kamusal alanlar için yerleştirmeler
+ve araştırma için veri görselleştirme yaptılar.
 
 53
 00:04:08,159 --> 00:04:11,680
@@ -255,7 +253,7 @@ Processing basit kavramlar
 
 54
 00:04:11,760 --> 00:04:17,270
-ama sanatçılar onunla hep
+ama sanatçılar onunla her zaman
 iddialı projeler üretmenin yolunu buldu.
 
 55
@@ -275,12 +273,12 @@ karşılaşmam 2012'deydi.
 
 58
 00:04:31,440 --> 00:04:36,800
-Çok geleneksel, açıkçası çok Fransız
+Açıkçası geleneksel ve hayli Fransız
 tarzı bir uygulamalı sanatlar
 
 59
 00:04:36,880 --> 00:04:42,880
-eğitiminden yeni çıkmıştım. Processing
+eğitiminden mezun olmuştum. Processing
 bana tasarımı düşünmenin
 
 60
@@ -299,17 +297,17 @@ yazabiliyor ve anlayabiliyordum.
 
 63
 00:04:57,759 --> 00:05:02,800
-Tamamen acemiydim, ama yine de
+Tamamiyle hiçbir bilgim yoktu, ama yine de
 Processing topluluğu beni kucakladı
 
 64
 00:05:02,880 --> 00:05:07,409
 ve çok temel sorular sorduğumda bile
-kendimi yabancı hissettirmedi.
+kendimi yabancı hissettirmediler.
 
 65
 00:05:07,919 --> 00:05:13,610
-2. sürüm çıktığında
+Versiyon 2 çıktığında,
 sürüm notlarında şaka yollu şöyle yazıyordu:
 
 66
@@ -325,7 +323,7 @@ kariyerlerini mahvetmeyi amaçlıyor."
 68
 00:05:25,919 --> 00:05:30,399
 Bence Processing hayatımı ve kariyerimi
-sadece çok daha
+tam anlamıyla çok daha
 
 69
 00:05:30,479 --> 00:05:31,730
@@ -358,7 +356,7 @@ Processing topluluğunu büyüttü:
 75
 00:05:52,000 --> 00:05:56,480
 The Nature of Code gibi kitaplar yazdı
-ve neşeli YouTube kanalı
+ve eğlenceli YouTube kanalı
 
 76
 00:05:56,560 --> 00:05:59,899
@@ -367,7 +365,7 @@ The Coding Train'de
 
 77
 00:06:00,320 --> 00:06:02,559
-Processing'i keşfetmeden önce
+Ben ise Processing'i keşfetmeden önce
 
 78
 00:06:02,639 --> 00:06:05,227
@@ -391,7 +389,7 @@ Gençken MySpace ve Neopets.te site yapmak
 
 82
 00:06:20,479 --> 00:06:21,520
-daha çok güç vermişti.
+bile daha anlamlıydı benim için.
 
 83
 00:06:22,400 --> 00:06:28,000
@@ -427,7 +425,7 @@ nasıl olurdu?"
 
 90
 00:06:49,360 --> 00:06:54,399
-Yanıt p5'ti. Processing sanatçılara
+Yanıt p5 idi. Processing sanatçılara
 kod yazdırmıştı;
 
 91
@@ -502,7 +500,7 @@ ve yapmaya devam eden
 105
 00:07:50,800 --> 00:07:56,060
 insanları düşünürüm. Lauren, p5'i
-yedi yıl boyunca yarattı ve yönetti.
+yarattı ve yedi yıl boyunca yönetti.
 
 106
 00:07:56,160 --> 00:08:01,119
@@ -537,16 +535,16 @@ kaynak projesi kurduğumuz için gururluyum.
 112
 00:08:28,240 --> 00:08:32,099
 Kimse bir gecede
-bakımcı olmaz.
+proje yürütücüsü olamaz.
 
 113
 00:08:32,640 --> 00:08:37,349
 Bu yüzden bir yol çizdik:
-katkıcı, steward, bakımcı.
+Katkıda bulunan, alan sorumlusu, proje yürütücüsü.
 
 114
 00:08:37,599 --> 00:08:42,399
-Farklı alanlar için steward çağrıları
+Farklı konu başlıkları için alan sorumlusu çağrıları
 yaptık, çünkü kimse aynı anda
 
 115
@@ -556,7 +554,7 @@ uzman olamaz.
 
 116
 00:08:48,000 --> 00:08:51,829
-Her steward p5'in bir bölümünün
+Her alan sorumlusu p5'in bir bölümünün
 sorumluluğunu üstlenir,
 
 117
@@ -566,7 +564,7 @@ ve zamanla
 
 118
 00:08:56,160 --> 00:09:00,400
-bakımcı rolüne geçebilir. Bu yolda
+proje yürütücüsü rolüne geçebilir. Bu yolda
 insanlara mentorluk
 
 119
@@ -639,7 +637,7 @@ elden geçirmek,
 133
 00:09:57,600 --> 00:10:02,689
 geliştirici deneyimini çağdaşlaştırmak
-ve yeni gelenleri
+ve yeni başlayanları
 
 134
 00:10:02,880 --> 00:10:05,370
@@ -657,18 +655,18 @@ Stef Tervelde yaptı.
 
 137
 00:10:15,440 --> 00:10:20,240
-Geçen eylülde de Moon Davé
+Geçen Eylül'de de Moon Davé
 tam zamanlı lider olarak aramıza katıldı.
 
 138
 00:10:20,320 --> 00:10:27,040
-Processing'e taze fikirler getiriyor
-ve tavanı yükseltiyor:
+Processing'e taze fikirler getirerek
+neler yapılabileceğinin ve projenin
 
 139
 00:10:27,120 --> 00:10:31,280
-Processing'le neler yapılabileceğinin
-ve projenin neye dönüşebileceğinin.
+neye dönüşebileceğini göstererek
+çıtayı yükseltiyor.
 
 140
 00:10:31,360 --> 00:10:37,600
@@ -717,7 +715,7 @@ bir compute shader'a taşıyabilirsiniz;
 149
 00:11:11,519 --> 00:11:18,300
 böylece sürüyü kolayca
-200 boid'den 20.000'e çıkarırken
+200 parçacıktan 20.000'e çıkarırken
 
 150
 00:11:18,560 --> 00:11:21,099
@@ -725,7 +723,7 @@ etkileşimli kare hızını korursunuz.
 
 151
 00:11:21,279 --> 00:11:23,030
-Üstelik 3D'de de yapabilirsiniz.
+Bunu üstelik 3B ortamda da yapabilirsiniz.
 
 152
 00:11:23,839 --> 00:11:29,080
@@ -781,16 +779,16 @@ katkıcılarımızdan biri,
 163
 00:12:09,279 --> 00:12:15,999
 Charlotte McElwain, telefonuyla
-bir tavşan taradı, o 3D veriyi
+bir tavşan taradı, o 3B veriyi
 
 164
 00:12:16,079 --> 00:12:21,770
-açık kaynaklı bir 3D yazılıma aktardı,
+açık kaynaklı bir 3B yazılımından,
 glTF olarak dışa aktardı
 
 165
 00:12:22,800 --> 00:12:25,280
-ve bir Processing eskizine aldı.
+ve bunu Processing eskizine yükledi.
 
 166
 00:12:25,360 --> 00:12:29,840
@@ -799,16 +797,17 @@ oluşturmak için basit yapı taşları
 
 167
 00:12:29,920 --> 00:12:34,720
-da yerleşik olacak. Burada
+da varsayılan olarak gelecek. Burada
 tüm bu parçacıkların
 
 168
 00:12:34,800 --> 00:12:36,480
-tavşan şeklinde uçuştuğunu görüyoruz.
+tavşan formunu oluşturacak şeklide
+uçuştuğunu görüyoruz.
 
 169
 00:12:36,560 --> 00:12:41,520
-Bu temel öğelerle çalışmanın
+Bu temel bileşenlerle çalışmanın
 çok kolay olmasını istiyoruz,
 
 170
@@ -844,7 +843,7 @@ nasıl bir topluluğu bir araya getirdiğini
 
 177
 00:13:06,000 --> 00:13:10,879
-Processing yazılım ailesi, bine yakın
+Processing yazılım ailesi, 1000'e yakın
 bireysel katkıcıya
 
 178
@@ -1021,7 +1020,7 @@ topluluk için bir yol.
 214
 00:15:44,160 --> 00:15:47,249
 Bu dokumaya bir iplik eklemek için
-bana katılın.
+bize katılın.
 
 215
 00:15:47,760 --> 00:15:49,830
