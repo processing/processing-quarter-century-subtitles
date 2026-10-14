@@ -19,7 +19,7 @@ The English file is the reference transcript, edited by the presenters. The tran
 | Language | File | Status |
 | --- | --- | --- |
 | English | [EN](subtitles/A_Quarter_Century_of_Processing_EN.srt) | Reference transcript |
-| Chinese (Simplified) | [ZH](subtitles/A_Quarter_Century_of_Processing_ZH.srt) | Needs review |
+| Chinese (Simplified) | [ZH](subtitles/A_Quarter_Century_of_Processing_ZH.srt) | ✅ Reviewed |
 | Chinese (Traditional, Taiwan) | [ZH-TW](subtitles/A_Quarter_Century_of_Processing_ZH-TW.srt) | ☑️ Needs review |
 | French | [FR](subtitles/A_Quarter_Century_of_Processing_FR.srt) | ✅ Reviewed |
 | German | [DE](subtitles/A_Quarter_Century_of_Processing_DE.srt) | ☑️ Needs review |
