@@ -125,7 +125,7 @@ Viewers need time to read each subtitle before the next one appears. As a rough 
 - **Persian (FA):** Each text line starts with an invisible right-to-left mark (U+200F). It keeps lines that begin with a Latin word, such as a speaker label or "Processing", displaying right-to-left. Don't delete it. If your editor makes this hard, describe your changes in an issue instead.
 - **Chinese and Japanese:** Following common subtitling practice, line-final commas and full stops are replaced with spaces or line breaks. Question marks, exclamation marks, and quotation marks stay.
 - **Chinese (Traditional, Taiwan):** The file uses Taiwan vocabulary (軟體, 程式碼, 專案). If you want a Hong Kong variant, add it as a new language with the code `ZH-HK`.
-- **Spanish (ES):** The file uses Spain Spanish (*vosotros*, *ordenador*). A Latin American variant would be welcome as a separate file, `ES-419`.
+- **Spanish (ES):** The file uses South American Spanish (*ustedes*, *computadora*, *celular*). Keep vocabulary and forms of address consistent with this variant.
 
 ## Open questions
 

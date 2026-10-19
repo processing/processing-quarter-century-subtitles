@@ -21,8 +21,8 @@ unos hilos para poder
 
 6
 00:00:33,200 --> 00:00:37,440
-añadir otros nuevos. El software libre
-es como un telar.
+añadir otros nuevos. El software
+de código abierto es como un telar.
 
 7
 00:00:37,520 --> 00:00:43,600
@@ -66,7 +66,7 @@ para quien no tuviera
 15
 00:01:12,400 --> 00:01:15,988
 formación técnica, y los gráficos
-por ordenador eran muy complicados.
+por computadora eran muy complicados.
 
 16
 00:01:16,159 --> 00:01:19,420
@@ -81,7 +81,7 @@ del MIT Media Lab, se preguntaron:
 18
 00:01:25,520 --> 00:01:28,339
 «¿Qué significa hacer arte
-con ordenadores?
+con computadoras?
 
 19
 00:01:28,560 --> 00:01:33,520
@@ -91,7 +91,7 @@ que permita a artistas y diseñadores
 20
 00:01:33,600 --> 00:01:37,440
 usar el código como medio creativo?».
-El director, John Maeda,
+El investigador principal, John Maeda,
 
 21
 00:01:37,520 --> 00:01:40,800
@@ -129,8 +129,8 @@ a artistas y diseñadores
 
 28
 00:02:07,600 --> 00:02:09,894
-y lograron enseñarles
-gráficos por ordenador sencillos.
+enseñándoles gráficos
+por computadora sencillos.
 
 29
 00:02:10,160 --> 00:02:14,159
@@ -198,7 +198,7 @@ el código en herramienta de improvisación.
 42
 00:03:06,560 --> 00:03:11,080
 Lo conocí hace 20 años
-en una clase de gráficos por ordenador.
+en una clase de gráficos por computadora.
 
 43
 00:03:12,560 --> 00:03:17,680
@@ -246,8 +246,8 @@ y acababan creando obras para museos,
 
 52
 00:04:02,640 --> 00:04:08,079
-instalaciones en espacios públicos
-y visualizaciones para la investigación.
+instalaciones públicas y visualizaciones
+de datos para la investigación.
 
 53
 00:04:08,159 --> 00:04:11,680
@@ -333,8 +333,8 @@ mucho más emocionantes.
 
 70
 00:05:33,120 --> 00:05:38,559
-CASSIE: En 2002, Dan Shiffman aprendió Processing
-como estudiante del Interactive
+CASSIE: En 2002, Dan Shiffman aprendió
+Processing estudiando en el Interactive
 
 71
 00:05:38,639 --> 00:05:41,000
@@ -386,8 +386,8 @@ que no podía crear nada relevante
 
 81
 00:06:15,520 --> 00:06:20,399
-ni tangible. De adolescente, haciendo sitios web
-en MySpace y Neopets,
+ni tangible. De adolescente, creando
+sitios web en MySpace y Neopets,
 
 82
 00:06:20,479 --> 00:06:21,520
@@ -540,7 +540,7 @@ de la noche a la mañana.
 113
 00:08:32,640 --> 00:08:37,349
 Así que trazamos un camino:
-contribuidor, steward, mantenedor.
+colaborador, steward, mantenedor.
 
 114
 00:08:37,599 --> 00:08:42,399
@@ -584,8 +584,8 @@ y oculta a quienes lo hacen.
 
 122
 00:09:14,160 --> 00:09:18,639
-Pero detrás de cada proyecto abierto
-hay personas reales, con historias,
+Pero cada proyecto de código abierto
+tiene detrás personas con historias,
 
 123
 00:09:18,720 --> 00:09:21,020
@@ -670,8 +670,8 @@ y de lo que el proyecto puede llegar a ser.
 
 140
 00:10:31,360 --> 00:10:37,600
-MOON: Gracias, Raphaël. Processing siempre ha sido
-un cuaderno de bocetos. Hemos hecho
+MOON: Gracias, Raphaël. Processing siempre
+ha sido un cuaderno de bocetos. Hicimos
 
 141
 00:10:37,680 --> 00:10:42,879
@@ -780,12 +780,12 @@ una de nuestras colaboradoras,
 163
 00:12:09,279 --> 00:12:15,999
 Charlotte McElwain, escaneó un conejo
-con su móvil, tomó esos datos 3D,
+con su celular, tomó esos datos 3D,
 
 164
 00:12:16,079 --> 00:12:21,770
-los pasó a un programa 3D libre,
-los exportó a glTF
+los pasó a un programa 3D
+de código abierto, los exportó a glTF
 
 165
 00:12:22,800 --> 00:12:25,280
@@ -816,7 +816,7 @@ a alto o a bajo nivel.
 
 171
 00:12:43,519 --> 00:12:45,920
-En fin, ¡estoy super emocionada!
+En fin, ¡estoy superemocionada!
 
 172
 00:12:47,279 --> 00:12:50,640
@@ -902,7 +902,7 @@ fiables y están modernizados,
 189
 00:13:56,240 --> 00:14:01,999
 es gracias a donantes como ustedes,
-que proporcionan una financiación sostenible y fiable.
+que aportan fondos sostenibles y fiables.
 
 190
 00:14:02,160 --> 00:14:07,119
@@ -931,12 +931,12 @@ a Processing Java y p5.js.
 
 195
 00:14:26,480 --> 00:14:31,920
-Así, el software con el que hemos crecido
-y que tanto queremos
+Así, el software con el que crecimos
+y que queremos podrá seguir aquí
 
 196
 00:14:32,000 --> 00:14:33,199
-podrá seguir aquí para siempre.
+para siempre.
 
 197
 00:14:34,435 --> 00:14:39,439
@@ -944,12 +944,12 @@ podrá seguir aquí para siempre.
 
 198
 00:14:39,519 --> 00:14:44,720
-Y al mismo tiempo anunciamos
-el Fondo de Desarrollo
+Y también anunciamos el Fondo
+de la Processing Foundation
 
 199
 00:14:44,800 --> 00:14:45,929
-de la Processing Foundation.
+para el Desarrollo.
 
 200
 00:14:47,199 --> 00:14:52,559
